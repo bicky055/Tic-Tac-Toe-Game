@@ -1,1 +1,4 @@
-# Tic-Tac-Toe-Game
+Title: "Tic-Tac-Toe Challenge: Master the Ultimate Strategy Game!"
+
+Description:
+Embark on a thrilling journey of strategic thinking and quick decision-making with our interactive Tic-Tac-Toe game built using JavaScript. Dive into the classic grid-based challenge where you face off against a friend or test your skills against an AI opponent. Experience the excitement of claiming victory by forming three consecutive marks in a row, column, or diagonal while thwarting your opponent's attempts to do the same. With sleek design, intuitive controls, and dynamic gameplay, our Tic-Tac-Toe Challenge is the perfect way to sharpen your mind and enjoy endless hours of fun-filled entertainment. So, are you ready to outwit your opponent and emerge as the ultimate Tic-Tac-Toe champion? Let the games begin!# Tic-Tac-Toe-Game
